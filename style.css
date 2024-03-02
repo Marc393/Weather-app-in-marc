@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    width: 100%;
+    width: 100vh;
     min-height: 100vh;
     background-image: url(backgroundamongus.jpg);
     background-position: center;
